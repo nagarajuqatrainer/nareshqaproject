@@ -8,10 +8,7 @@ import org.testng.annotations.Test;
 public class AppTest 
 {
 	
-	public static WebDriver driver;
-	public static String weburl ="https://www.mycontactform.com/";
-	//mvn archetype:generate
-	//enter mvn project folder using cmd
+	
 	
     @Test
     public void verifysamplemaventest() throws Exception
@@ -19,6 +16,7 @@ public class AppTest
      
     	
     System.out.println("Run maven sample test");
+    System.out.println("Run Maven second commit update");
     	
     	
     	
