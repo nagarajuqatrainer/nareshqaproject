@@ -18,8 +18,8 @@ public class AppTest
     System.out.println("Run maven sample test");
     System.out.println("Run Maven second commit update");
     System.out.println("Maven third commit");
-    	
-    	
+    System.out.println("Launching browser");
+    System.out.println("closing browser");
     	
     }
 }
