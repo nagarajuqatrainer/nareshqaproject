@@ -17,7 +17,7 @@ public class AppTest
     	
     System.out.println("Run maven sample test");
     System.out.println("Run Maven second commit update");
-    	
+    System.out.println("Maven third commit");
     	
     	
     	
